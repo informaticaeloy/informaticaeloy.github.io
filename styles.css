@@ -3,5 +3,13 @@ body {
   background: black;
   text-align: center;
   font-family: "Audiowide", sans-serif;
-  foreground-color: green;
+  foreground-color: orange;
+}
+
+h1 {
+  color: orange;
+}
+
+p {
+  color: orange;
 }
